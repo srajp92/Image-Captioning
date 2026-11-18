@@ -1,0 +1,8 @@
+datasets==4.8.5
+matplotlib==3.10.0
+numpy==2.4.6
+pandas==2.2.3
+pillow==11.3.0
+requests==2.32.4
+torch==2.14.1+cu130
+transformers==5.22.1
