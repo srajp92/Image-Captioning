@@ -13,5 +13,4 @@ Milestone 1: baseline pipeline for COCO Captions (1,000 images, ~5k pairs)
    (Or `pip install -r requirements.txt` locally)
 
 ## Team Members
-Srishti Rajpurohit
-Neenu Santhosh
+Srishti Rajpurohit, Neenu Santhosh
