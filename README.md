@@ -5,7 +5,7 @@ Milestone 1: baseline pipeline for COCO Captions (1,000 images, ~5k pairs)
 - `Milestone1_Image_Captioning.ipynb`: data cleaning, CLIP image embeddings,
   GPT-2 tokenization, 5 baseline image→caption test runs
 - `IE 7615 Generative Project Proposal`: initial project proposal
-- `data/`: cleaned captions and sample test-run outputs
+- `data`: cleaned captions and sample test-run outputs
 
 ## How to run
 1. Open the notebook in Google Colab (GPU runtime: T4)
